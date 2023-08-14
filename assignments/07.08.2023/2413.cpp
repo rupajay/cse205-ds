@@ -1,11 +1,9 @@
-class Solution {
-public:
-    int smallestEvenMultiple(int n) {
-        if(n%2==0){
-            return n;
-        }
-        else{
-            return n*2;
-        }
-    }
-};
+#include<iostream>
+using namespace std;
+
+int main(){
+     double N;
+     cin>>N;
+    cout<<N;
+    return 0;
+}
